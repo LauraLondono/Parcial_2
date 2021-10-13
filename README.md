@@ -53,6 +53,13 @@ Compuesto por un DIV general con un svg interno.
 ### - FooterLayout
 Compuesto por un DIV general con los 4 botones con íconos. 
 
+Default Layout
+![default](https://user-images.githubusercontent.com/89430217/137078261-25a292fd-92fb-4007-a88a-e3c79b662104.jpg)
+
+Móvil Layout
+![celular](https://user-images.githubusercontent.com/89430217/137078468-9945eaf3-0db9-435a-92a8-2a92b92e3fcd.jpg)
+
+
 
 
 
